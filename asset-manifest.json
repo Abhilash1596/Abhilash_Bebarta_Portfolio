@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Abhilash_Bebarta_Portfolio/static/css/main.b910fb55.css",
+    "main.js": "/Abhilash_Bebarta_Portfolio/static/js/main.9fa617d8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Abhilash_Bebarta_Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about-pic.png": "/Abhilash_Bebarta_Portfolio/static/media/about-pic.90b322ae809dba5d9d37.png",
+    "static/media/profile-pic.png": "/Abhilash_Bebarta_Portfolio/static/media/profile-pic.414b0657184cf6b6c8b1.png",
+    "static/media/project1.png": "/Abhilash_Bebarta_Portfolio/static/media/project1.504be3fc9c67f80f9c61.png",
+    "static/media/project5.png": "/Abhilash_Bebarta_Portfolio/static/media/project5.fb02fd03d0ed154900e2.png",
+    "static/media/project4.png": "/Abhilash_Bebarta_Portfolio/static/media/project4.7dbec8b19cff00721850.png",
+    "static/media/project2.png": "/Abhilash_Bebarta_Portfolio/static/media/project2.491b47fad4ed565b14d4.png",
+    "static/media/project3.png": "/Abhilash_Bebarta_Portfolio/static/media/project3.5e269705b83b9c789f9c.png",
+    "static/media/project6.png": "/Abhilash_Bebarta_Portfolio/static/media/project6.8cb552701dbf69dd4a15.png",
+    "static/media/Abhilash_Bebarta_Resume.pdf": "/Abhilash_Bebarta_Portfolio/static/media/Abhilash_Bebarta_Resume.4079d392d4ac843486c3.pdf",
+    "static/media/email.png": "/Abhilash_Bebarta_Portfolio/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/checkmark.png": "/Abhilash_Bebarta_Portfolio/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/arrow.png": "/Abhilash_Bebarta_Portfolio/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/Abhilash_Bebarta_Portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/Abhilash_Bebarta_Portfolio/index.html",
+    "main.b910fb55.css.map": "/Abhilash_Bebarta_Portfolio/static/css/main.b910fb55.css.map",
+    "main.9fa617d8.js.map": "/Abhilash_Bebarta_Portfolio/static/js/main.9fa617d8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Abhilash_Bebarta_Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b910fb55.css",
+    "static/js/main.9fa617d8.js"
+  ]
+}
